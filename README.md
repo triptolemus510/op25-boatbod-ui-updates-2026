@@ -1,4 +1,4 @@
-# op25-boatbod-ui-updates-2025
+# op25-boatbod-ui-updates-2026
 OP25 Boatbod version web interface updates
 
 This implementation works on what python already sends over with just one small addition to tk_p25.py, which is to send over the talkgruop tags in the trunk_update payload. See line 1672 through 1685 in tk_p25.py.
